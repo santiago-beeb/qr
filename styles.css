@@ -19,6 +19,7 @@ body {
 .container {
   height: 100vh;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   text-align: center;
   align-items: center;
@@ -54,8 +55,6 @@ body {
   padding: 15px;
 }
 .attribution {
-  position: absolute;
-  bottom: 0;
   padding: 20px;
 }
 .attribution a {
