@@ -54,7 +54,7 @@ body {
   padding: 15px;
 }
 .attribution {
-  position: fixed;
+  position: absolute;
   bottom: 0;
   padding: 20px;
 }
